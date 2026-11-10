@@ -1,0 +1,78 @@
+{
+  "askCortexPage": {
+    "topic": "general",
+    "suggestions": [
+      "From crude purchase to rack sale: where are we losing margin?",
+      "Which terminal loses the most volume between nominated and net@15C receipts?",
+      "Where and when do we sell rack product below benchmark?",
+      "Which exchange counterparty is consistently out of balance?",
+      "What would we lose by reading SAP from BDC instead of S/4HANA tables?"
+    ]
+  },
+  "pages": {
+    "overview": {
+      "topic": "overview",
+      "suggestions": [
+        "Where is margin leaking, and which leak is biggest?",
+        "Which terminal has the worst QCI loss?",
+        "Which counterparty is short on exchanges?"
+      ]
+    },
+    "margin": {
+      "topic": "margin",
+      "suggestions": [
+        "Which terminal and product earns the best margin per barrel?",
+        "Which cost line drives the margin gap between terminals?",
+        "How has margin per barrel tracked WTI Cushing?"
+      ]
+    },
+    "inventory": {
+      "topic": "inventory",
+      "suggestions": [
+        "Why is the QCI loss at T100 Midland so high?",
+        "How does T100's 2-3% loss compare with the other terminals?",
+        "Has the Midland loss been consistent month to month?"
+      ]
+    },
+    "rack": {
+      "topic": "rack",
+      "suggestions": [
+        "Where is our rack price below benchmark, and in which months?",
+        "How much did T300 Houston gasoline lose in quarter-end months?",
+        "Which terminal and product prices above benchmark?"
+      ]
+    },
+    "exchanges": {
+      "topic": "exchanges",
+      "suggestions": [
+        "Which counterparty is consistently short, and by how much?",
+        "How big is the Vitol (P004) imbalance each month?",
+        "What do exchange differential fees cost us by partner?"
+      ]
+    },
+    "trading": {
+      "topic": "trading",
+      "suggestions": [
+        "Which books are losing on mark-to-market?",
+        "Where is our net position concentrated by price index?",
+        "Which delivery months carry the most MTM risk?"
+      ]
+    },
+    "coverage": {
+      "topic": "coverage",
+      "suggestions": [
+        "Which sources supply each canonical object?",
+        "Which objects come from a single source only?",
+        "How many rows does each source contribute?"
+      ]
+    },
+    "data-sources": {
+      "topic": "sources",
+      "suggestions": [
+        "What does each source supply, and what are the gaps?",
+        "What changes if SAP is read from BDC?",
+        "Which objects does SAP BW not cover?"
+      ]
+    }
+  }
+}
