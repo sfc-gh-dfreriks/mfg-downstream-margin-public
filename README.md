@@ -1,6 +1,6 @@
 # Downstream Margin — public demo
 
-A static, no-login build of the **Downstream Margin** app (Oil, Gas & Energy use case 13 in
+A static, no-login build of the **Downstream Margin** app (Oil, Gas & Energy use case 32 in
 [`mfg-use-cases`](https://github.com/sfc-gh-dfreriks/mfg-use-cases)), deployed to GitHub Pages:
 
 **https://sfc-gh-dfreriks.github.io/mfg-downstream-margin-public/**
@@ -42,7 +42,7 @@ Trading Position · Source Coverage · Data Sources · Field Mapping · SAP Meta
 For live queries, source switching and free-text Ask Cortex, deploy from the source repo:
 ```bash
 git clone https://github.com/sfc-gh-dfreriks/mfg-use-cases
-cd mfg-use-cases/use_cases/13_downstream_margin
+cd mfg-use-cases/use_cases/32_downstream_margin
 npm run dev  # from app/
 ```
-See [use_cases/13_downstream_margin/README.md](https://github.com/sfc-gh-dfreriks/mfg-use-cases/blob/main/use_cases/13_downstream_margin/README.md) for full setup instructions.
+See [use_cases/32_downstream_margin/README.md](https://github.com/sfc-gh-dfreriks/mfg-use-cases/blob/main/use_cases/32_downstream_margin/README.md) for full setup instructions.
